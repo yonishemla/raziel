@@ -125,15 +125,15 @@ font-size: var(--fs-h3);
     background: var(--clr-accent);
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
-    padding: 0.5em 7em;
-    text-align:center;
-    font-size: xx-large;
-    margin-left: 1em;
+    padding: .25em 1em;
 }
 .section__title--work{
     color: var(--clr-accent);
     font-weight: var(--fw-bold);
     margin-bottom: 1em;
+}
+p{
+    text-align: center;
 }
 
 
